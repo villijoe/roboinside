@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<script type="application/javascript">
+<!--<script type="application/javascript">
     function getCookie(name) {
         var matches = document.cookie.match(new RegExp(
             "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
@@ -33,7 +33,7 @@
             '<br /><div id="userList"></div>' +
             '<br /><div id="logged"></div>';
     }
-</script>
+</script>-->
 
 <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
 <script src="jquery.cookie.js"></script>
